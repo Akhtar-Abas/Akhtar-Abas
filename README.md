@@ -10,11 +10,11 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 *Final Year BS Computer Science student* at University of Baltistan, Skardu  
-- 🔭 *Currently working on:* Roman Balti → English **AI-based Language Translator** (FYP)  
+- 🎓 *BS Computer Science from University of Baltistan, Skardu  
+- 🔭 *Final Year Project:* Roman Balti → English **AI-based Language Translator** (FYP)  
 - 🌱 *Learning:* Advanced *NLP, Deep Learning, and Generative AI*  
 - 💬 *Ask me about:* Python, NLP, Machine Learning, Data Analysis, AI Workflows  
-- 📫 *Email:* **tanhaabbasuu@gmail.com**  
+- 📫 *Email:* **akhtar.abbas8267@gmail.com**  
 
 ---
 
