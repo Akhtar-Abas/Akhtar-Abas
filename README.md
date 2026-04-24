@@ -4,8 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm <strong>Akhtar Abbas</strong></h1>
 <p align="center">
-  <sub>AI Engineer · Backend Developer · NLP Researcher</sub><br/>
-  <sub>Conversational AI | RAG | Low-Resource MT | Multi-Agent Systems</sub>
+ <strong> <sub>AI Engineer · Backend Developer · NLP Researcher</sub></strong><br/>
+  <strong> <sub>Conversational AI | RAG | Low-Resource MT | Multi-Agent Systems</sub></strong>
 </p>
 
 <hr/>
